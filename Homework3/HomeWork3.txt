@@ -1,0 +1,9 @@
+1. <input class="gLFyf" jsaction="paste:puy29d;" maxlength="2048" name="q" type="text" aria-autocomplete="both" aria-haspopup="false" autocapitalize="off" autocomplete="off" autocorrect="off" autofocus="" role="combobox" spellcheck="false" title="ძიება" value="" aria-label="ძიება" data-ved="0ahUKEwjm97HGi6T9AhWHi1wKHfFwCNEQ39UDCAQ">
+ გავხსნით google.com შემდეგ გამოვიძახებთ ინსპექტ ელემენტს და ისრის მათითებელი ღილაკით ჩავაწკაპებთ ძებნის ველში
+
+2. ანალოგიური მეთოდით გავხსნით google.com დავაინსპექტებთ და ისრის მათითებელს მაუსით მივიტანთ აღნიშნულ ღილაკთან და ავიღებთ უნიკალურ ელემენტს, ამ შემთხვევაში ეს არის name="btnK"
+
+3. Xpath - //*[@id="gb"]/div/div[1]/div/div[2]/a 
+
+  full Xpath - /html/body/div[1]/div[1]/div/div/div/div[1]/div/div[2]/a
+
